@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetProject", "AspNetProject\AspNetProject.csproj", "{C31BA968-6BF6-4D12-BEFE-AF6155FAD291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{963B0990-87C3-48E8-8839-C14FB50BE13B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAcces", "DataAcces\DataAcces.csproj", "{C95A8BF6-B7D4-49C5-A910-B727C3E1FC79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C31BA968-6BF6-4D12-BEFE-AF6155FAD291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C31BA968-6BF6-4D12-BEFE-AF6155FAD291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C31BA968-6BF6-4D12-BEFE-AF6155FAD291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C31BA968-6BF6-4D12-BEFE-AF6155FAD291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{963B0990-87C3-48E8-8839-C14FB50BE13B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963B0990-87C3-48E8-8839-C14FB50BE13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963B0990-87C3-48E8-8839-C14FB50BE13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963B0990-87C3-48E8-8839-C14FB50BE13B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C95A8BF6-B7D4-49C5-A910-B727C3E1FC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95A8BF6-B7D4-49C5-A910-B727C3E1FC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95A8BF6-B7D4-49C5-A910-B727C3E1FC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95A8BF6-B7D4-49C5-A910-B727C3E1FC79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7A0BF39-AF34-455C-B41C-68BE1E7C5166}
+	EndGlobalSection
+EndGlobal
